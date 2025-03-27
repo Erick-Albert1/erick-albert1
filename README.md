@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👨‍💻 Olá! Eu sou Erick Albert
 
-<!--
-**Erick-Albert1/erick-albert1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou um entusiasta de tecnologia e desenvolvimento de software, sempre buscando aprender e aprimorar minhas habilidades. Trabalho com diversas tecnologias e estou sempre pronto para encarar novos desafios.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente, estou aprendendo: Estrutura AWS.
+- 🤝 Estou interessado em colaborar em: Projetos que possam somar conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+## Tecnologias Utilizadas 🚀
+
+Aqui estão as tecnologias que utilizo no meu dia a dia:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+</p>
+
+---
+
+🔎 _Fique à vontade para explorar meus repositórios e projetos!_
